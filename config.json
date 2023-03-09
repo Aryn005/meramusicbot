@@ -1,0 +1,19 @@
+{
+    "prefix" : ">",
+    "color" : "#00B9FF",
+    "owners" : ["960915785738518629"],
+    "mongourl" : "mongodb+srv://COTUO9:COTUOP9090@cluster0.z84facw.mongodb.net/?retryWrites=true&w=majority",
+    "errors" : "https://discord.com/api/webhooks/1082583930840035368/B1GPZtkQGVYwMq-V5bcbGZyAdjOSEWaAIU-6tZf4soXm_Zl6vRN4FdexCHHELMlP1K8a",
+    "spotifyId" : "bf5ee2a72bae40ffadc71a47280e5ff9",
+    "mongourl2" : "mongodb+srv://COTUO9:COTUOP9090@cluster0.z84facw.mongodb.net/?retryWrites=true&w=majority",
+    "spotifySecret" : "053469ffeb3844079fab734ebf3090c2",
+    "topggapi" : "",
+    "server" : "https://discord.gg/QBNKgMQ6dc",
+    "nodes" : [{
+       "name" : "ABC",
+        "host" : "lavalink-replit.aryn006.repl.co",
+        "port" : 443,
+        "password" : "aryan@@1234",
+        "secure" : true
+    }]
+}
